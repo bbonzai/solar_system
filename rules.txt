@@ -1,0 +1,114 @@
+---
+title: Science Olympiad 2027 Rules for Solar System, Division B
+---
+Participants will be tested on the content below:
+
+    I. Identify and explain:
+        * surface/atmospheric features
+        * processes (e.g., cryovolcanism)
+        * properties of specific objects:
+
+        1. Objects in the Solar System: 
+            1a. Venus 
+            1b. Mars 
+            1c. Ganymede 
+            1d. Europa 
+            1e. Enceladus 
+            1f. Titan 
+            1g. Makemake 
+            1h. 101955 Bennu 
+            1i. 67P/Churyumov—Gerasimenko
+
+        2. Extrasolar Systems: 
+            2a. TRAPPIST-1 
+            2b. Kepler-452 
+            3c. LHS 1140
+
+    II. Habitability beyond the Earth: 
+
+        3. Conditions relevant to habitability, including:
+            3a. temperature 
+            3b. atmospheric composition and retention 
+            3c. presence of stable liquids (surface and subsurface) 
+            3c. tidal heating 
+            3d. chemical disequilibrium
+    
+        4. Geologic and chemical evidence of habitability, including:
+            4a. historical evidence of liquid water from morphology 
+            4b. surface/atmospheric composition inferred spectral features 
+            4c. delivery of water and organic material from small 
+                Solar System bodies
+
+    
+        5.  Biology and chemistry relevant to habitability, including:
+            5a. building blocks of life 
+                * proteins nucleic acids, lipids, carbohydrates), 
+            5b. phases/forms of water 
+                *liquid
+                * amorphous and crystalline ice brines
+                * clathrates
+            5c. extremophiles 
+                * chemolithoautotrophs
+                * tardigrades
+    
+    III. General engineering principles and facilities including:
+        * science objectives
+        * instrumentation
+        * tradeoffs underlying spacecraft and telescope design
+
+        6. Exoplanet detection techniques, limited to 
+            6a. transits
+            6b. radial velocity
+            6c. microlensing, 
+            6d. direct imaging.
+
+        7. Space Missions to solar system objects
+            7a. DAVINCI 
+            7b. VERITAS 
+            7c. Perseverance 
+            7d. Mars Reconnaissance Orbiter 
+            7e. MAVEN 
+            7f. ESCAPADE 
+            7g. Galileo
+            7h. Europa Clipper 
+            7i. JUICE 
+            7j. Cassini-Huygens 
+            7k. Dragonfly 
+            7l. OSIRIS-REx 
+            7m. Rosetta 
+
+        8. Space Telescopes for observng extra-solar-system objects:
+            8a. Kepler Space Telescope 
+            8b. James Webb Space Telescope
+            8c. Roman Space Telescope 
+            8d. Habitable Worlds Observatory
+    
+    IV. Mathematical concepts emphasizing algebraic manipulation.  
+        * rearranging/deriving equations 
+        * order of magnitude estimation 
+        * dimensional analysis 
+        * sketching graphs 
+        * proportions 
+
+        9. Light radiation, and temperature 
+            9a. Doppler shift 
+            9b. flux 
+            9c. inverse-square law 
+            9d. albedo 
+            9e. the Stefan—Boltzmann law 
+            9f. Wien’s displacement law 
+            9g. equilibrium temperature _
+
+        10. Gravity orbits, and tides: 
+            10a. kinetic and potential energy 
+            10b. Newton’s law of gravitation 
+            10c. Kepler’s laws 
+            10d. escape velocity 
+            10e. tidal forces
+
+        11. Chemistry: 
+            11a. ideal gas law 
+            11b. kinetics (e.g. Arrhenius equation)
+            11c chemical equilibrium
+    
+    
