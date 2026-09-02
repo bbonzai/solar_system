@@ -1,0 +1,65 @@
+---
+title: 'Extra-Solar-System objects'
+---
+### The Central Stars
+
+The exoplanets in this Science Olympiad focus on 3 stars all of about the same age:
+
+
+| Name           | Central Star                | Stellar Type | Distance | V     | K      | Age     | 
+|:---------------|:----------------------------|:-------------|:---------|:------|:-------|:--------|
+| TRAPPIST-1     | 2MASS J23062928-0502285     | M8 V         | 12 pc    | 18.8  | 10.30  | 7.6 Gyr |
+| LHS 1140       | 2MASS J00445930-1516166     | M4.5 V       | 15 pc    | 14.2  | 8.82   | >5 Gyr  |
+| Kepler-452     | 2MASS J19440088+4416392     | G2 IV        | 554 pc   | 13.4  | 11.85  | 6 Gyr   |
+
+Alternative names for the central stars are TRAPPIST-1a, LHS 1140a, and Kepler-452a, respectively.
+
+### The Exoplanets
+
+The orbital period of all of the exoplanets around the selected stars were measured
+by the **transit photometry** method.  This method is applied most easily to small stars.  
+
+| Name           | Date of discovery  | Discovery Method   | Distance (AU) | Radius | T (days) | Habitable Zone? |
+|:---------------|:-------------------|:-------------------|:--------------|:-------|:---------|:----------------|
+| TRAPPIST-1 b   | 5/2/2016           | Transit photometry | 0.01154       |        |          |                 |
+| TRAPPIST-1 c   |                    | Transit photometry | 0.0158        |        |          |                 |
+| TRAPPIST-1 d   |                    | Transit photometry | 0.0223        |        |          | Close           |
+| TRAPPIST-1 e   |                    | Transit photometry | 0.02925*      |        |          | Yes             |
+| TRAPPIST-1 f   |                    | Transit photometry | 0.03849*      |        |          | Yes             |
+| TRAPPIST-1 g   |                    | Transit photometry | 0.04683*      |        |          | Yes                 
+| TRAPPIST-1 h   | 2/22/2017          | Transit photometry |               |        |          |                 |
+| LHS 1140 b     | 4/20/2017          | Transit photometry |               |        |          |                 |
+| LHS 1140 c     | announced in 2018  | Transit photometry |               |        |          |                 |
+| Kepler-452 b   | 7/23/2015          | Transit photometry | 1.046         |        | 385      | Yes             | 
+
+Exoplanets in the "habitable zone" meaning their disance from the central star could theoretically allow liquid water to pool.
+
+#### Why focus on low-mass stars?
+
+Compared to massive stars:
+
+* Low-mass stars are more common.  So the neighborhood of the Sun is
+more likely to be crowded with low-mass stars than high-mass stars.
+
+* Low-mass stars are smaller. So when a planet-sized objects eclipses a 
+low-mass star, it hides a larger fraction of its surface.
+
+* Low-mass stars have lower mass, so planet-sized objects will cause a relatively
+larger perturbation in the star's radial velocity.
+
+### REFERENCES:
+
+* [NASA's Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu) 
+
+* [NASA's Table of all Currently Known Exoplanets](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS)
+Note this table is both very long and very wide.  Scroll right to see all the columns.  Be sure to use
+the search bar at the top of each column to find the objects of interest.
+
+* The [Exoplanet Follow-up Observing Program](https://exofop.ipac.caltech.edu/tess/), a repository
+for studies of exoplanet candidates.
+
+* An [Exoplanet Science Strategy](https://www.nationalacademies.org/read/25187/chapter/1) 
+from the National Academy of Sciences, for finding exoplanets and evaluating their habitability.
+
+
+

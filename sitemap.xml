@@ -43,25 +43,10 @@
         <loc>https://localhost/~sgk/circuit_lab/detection/</loc>
       </url>
       <url>
-        <loc>https://localhost/~sgk/circuit_lab/detection/transits/</loc>
+        <loc>https://localhost/~sgk/circuit_lab/detection/techniques/</loc>
       </url>
       <url>
-        <loc>https://localhost/~sgk/circuit_lab/detection/rv/</loc>
-      </url>
-      <url>
-        <loc>https://localhost/~sgk/circuit_lab/detection/microlensing/</loc>
-      </url>
-      <url>
-        <loc>https://localhost/~sgk/circuit_lab/detection/imaging/</loc>
-      </url>
-      <url>
-        <loc>https://localhost/~sgk/circuit_lab/telescopes/</loc>
-      </url>
-      <url>
-        <loc>https://localhost/~sgk/circuit_lab/telescopes/ground-based/</loc>
-      </url>
-      <url>
-        <loc>https://localhost/~sgk/circuit_lab/telescopes/space-based/</loc>
+        <loc>https://localhost/~sgk/circuit_lab/detection/facilities/</loc>
       </url>
       <url>
         <loc>https://localhost/~sgk/circuit_lab/math/</loc>
